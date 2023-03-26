@@ -1,0 +1,5 @@
+﻿  see_batle_1.cpp
+C:\Users\Макс\source\repos\see_batle_1\see_batle_1\see_batle_1.cpp(48,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Макс\source\repos\see_batle_1\see_batle_1\see_batle_1.cpp(55,16): warning C4309: =: усечение константного значения
+C:\Users\Макс\source\repos\see_batle_1\see_batle_1\see_batle_1.cpp(137,17): warning C4309: =: усечение константного значения
+  see_batle_1.vcxproj -> C:\Users\Макс\source\repos\see_batle_1\x64\Debug\see_batle_1.exe
